@@ -15,11 +15,55 @@ body {
     color: black;
     width: 100%;
     flex-direction: column;
+    align-content: space-around;
+}
+.iconp1{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp1 img{
+    width: 20px;
+    height: 20px;
+}
+.iconp2{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp2 img{
+    width: 20px;
+    height: 20px;
+}
+.iconp3{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp3 img{
+    width: 20px;
+    height: 20px;
+}
+.iconp4{
+    display: flex;
+    justify-content: flex-end;
+}
+.iconp4 img{
+    width: 20px;
+    height: 20px;
+}
+.iconp5{
+    display: flex;
+    justify-content: flex-end;
+}
+.iconp5 img{
+    width: 20px;
+    height: 20px;
 }
 .iconrelog{
   width: 30px;
   height: 30px;
-  color: green;
+}
+.p1{
+    display: flex;
+    justify-content: flex-start;
 }
 .flex-container2{
     column-count: 6;
@@ -27,11 +71,43 @@ body {
     width: 100%;
     flex-direction: column;
 }
+.iconp6{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp6 img{
+    width: 20px;
+    height: 20px;
+}
+.iconp7{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp7 img{
+    width: 20px;
+    height: 20px;
+}
 .flex-container3{
     column-count: 6;
     color: black;
     width: 100%;
     flex-direction: column;
+}
+.iconp8{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp8 img{
+    width: 20px;
+    height: 20px;
+}
+.iconp9{
+    display: flex;
+    justify-content: flex-start;
+}
+.iconp9 img{
+    width: 20px;
+    height: 20px;
 }
 .button {
     background-color: rgb(0, 149, 255);
@@ -44,6 +120,14 @@ body {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+  }
+  .P2{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .P3{
+    display: flex;
+    align-self: stretch;
   }
     
   .plans-container--card {
